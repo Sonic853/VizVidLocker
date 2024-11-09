@@ -1,0 +1,20 @@
+{
+    "name": "Sonic853.VizVid.Locker",
+    "rootNamespace": "",
+    "references": [
+        "VRC.Udon",
+        "UdonSharp.Runtime",
+        "Unity.TextMeshPro",
+        "JLChnToZ.VVMW",
+        "JLChnToZ.VRC.Foundation"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

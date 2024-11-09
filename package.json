@@ -1,0 +1,16 @@
+{
+  "name": "com.sonic853.vizvid.locker",
+  "displayName": "Sonic853 - VizVid Locker",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "简易的 VizVid 播放器控制锁",
+  "license": "LGPL-3.0-or-later",
+  "vpmDependencies": {
+    "idv.jlchntoz.vvmw": "1.x.x"
+  },
+  "author": {
+    "name": "Sonic853",
+    "email": "sonic853@qq.com",
+    "url": "https://github.com/Sonic853"
+  }
+}
